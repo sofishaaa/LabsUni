@@ -1,0 +1,16 @@
+{
+  "name": "lab7",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "selenium-webdriver": "^4.40.0"
+  }
+}
