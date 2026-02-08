@@ -1,0 +1,31 @@
+ Lab9 git:(Lab9) ✗ npm test
+
+> lab9@1.0.0 test
+> jest
+
+ PASS  ./api.test.js
+  Currency API
+    ✓ Список доступних валют (68 ms)
+    ✓ Курс євро до інших валют (22 ms)
+    ✓ Курс євро до долара (21 ms)
+    ✓ Запит на неіснуючу валюту (23 ms)
+  Bank Holidays API
+    ✓ Кількість святкових днів (101 ms)
+    ✓ Дата Пасхи (37 ms)
+  Cat Facts API
+    ✓ Структура breed (222 ms)
+    ✓ Структура fact (138 ms)
+    ✓ Перевірка limit (135 ms)
+    ✓ Перевірка заголовків (135 ms)
+  Dictionary API
+    ✓ Перевірка прикладів використання слова hello (136 ms)
+    ✓ Перевірка прикладів використання слова world (19 ms)
+    ✓ Перевірка прикладів використання слова science (19 ms)
+    ✓ Перевірка прикладів використання слова test (20 ms)
+    ✓ Перевірка прикладів використання слова love (23 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       15 passed, 15 total
+Snapshots:   0 total
+Time:        1.322 s, estimated 2 s
+Ran all test suites.
