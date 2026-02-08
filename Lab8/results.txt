@@ -1,0 +1,7 @@
+➜  Lab8 git:(Lab8) ✗ npx cucumber-js
+............................
+
+4 scenarios (4 passed)
+28 steps (28 passed)
+0m33.041s (executing steps: 0m33.026s)
+➜  Lab8 git:(Lab8) ✗ 
